@@ -1,0 +1,1209 @@
+[ 2022-04-27 03:13:09,382 ] Asset loading complete
+[ 2023-02-23 19:37:22,168 ] Asset loading complete
+[ 2023-02-23 19:41:47,567 ] Asset loading complete
+[ 2023-02-23 19:42:35,648 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 19:42:37,396 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-23 19:42:37,396 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-23 19:42:37,396 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-23 19:42:37,478 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-23 19:42:37,592 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 19:42:37,595 ] Connected to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 19:42:39,162 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 19:43:16,774 ] Connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-23 19:43:16,836 ] Disconnected from gameserver
+[ 2023-02-23 19:43:17,158 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 19:43:24,339 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-23 19:43:24,343 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 19:43:24,345 ] Connected to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 19:43:25,251 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-23 19:50:59,677 ] Connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-23 19:50:59,743 ] Disconnected from gameserver
+[ 2023-02-23 19:50:59,840 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-23 19:59:31,473 ] Asset loading complete
+[ 2023-02-23 19:59:58,093 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 20:00:12,914 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-23 20:00:12,914 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-23 20:00:12,914 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-23 20:00:13,043 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-23 20:00:13,052 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 20:00:13,055 ] Connected to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 20:00:14,100 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 20:34:34,639 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342238594 found"
+[ 2023-02-23 20:37:06,202 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255224 found"
+[ 2023-02-23 21:17:01,373 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255217 found"
+[ 2023-02-23 21:24:34,548 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255361 found"
+[ 2023-02-23 21:24:36,561 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255361 found"
+[ 2023-02-23 21:24:54,609 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255364 found"
+[ 2023-02-23 21:24:56,615 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255364 found"
+[ 2023-02-23 21:26:50,383 ] Connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-23 21:26:50,515 ] Disconnected from gameserver
+[ 2023-02-23 21:26:51,298 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 21:58:12,530 ] Asset loading complete
+[ 2023-02-23 22:02:38,064 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 22:02:39,539 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-23 22:02:39,539 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-23 22:02:39,539 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-23 22:02:39,610 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-23 22:02:39,617 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 22:02:39,619 ] Connected to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"
+[ 2023-02-23 22:02:40,592 ] News query failed: "Unrecognized event news."
+[ 2023-02-23 22:16:05,098 ] Connection to gameserver  "tcp://85.224.108.242:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-23 22:16:05,247 ] Disconnected from gameserver
+[ 2023-02-23 22:16:05,552 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 07:38:28,055 ] Asset loading complete
+[ 2023-02-24 07:39:21,729 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 07:39:26,512 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-24 07:39:26,512 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-24 07:39:26,512 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-24 07:39:26,580 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-24 07:39:26,587 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 07:39:26,589 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 07:39:27,554 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 07:39:54,871 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-24 07:39:54,951 ] Disconnected from gameserver
+[ 2023-02-24 07:39:55,254 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 07:42:09,208 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-24 07:46:48,245 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-24 07:46:49,159 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Heip" )
+[ 2023-02-24 07:46:49,163 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 07:46:49,165 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 07:46:50,112 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-24 07:47:02,771 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-24 07:47:02,833 ] Disconnected from gameserver
+[ 2023-02-24 07:47:02,889 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-24 07:47:10,904 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-24 17:12:23,880 ] Asset loading complete
+[ 2023-02-24 17:12:34,298 ] Update failed. Please reinstall Tibia to update your client.
+[ 2023-02-24 17:12:49,188 ] Update failed. Please reinstall Tibia to update your client.
+[ 2023-02-24 17:14:05,294 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 17:14:10,466 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-24 17:14:10,466 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-24 17:14:10,466 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-24 17:14:10,539 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-24 17:14:10,548 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 17:14:10,551 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 17:14:11,529 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 17:23:40,738 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-24 17:23:40,807 ] Disconnected from gameserver
+[ 2023-02-24 17:23:41,154 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 18:02:38,998 ] Asset loading complete
+[ 2023-02-24 18:02:53,154 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 18:02:54,910 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-24 18:02:54,910 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-24 18:02:54,910 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-24 18:02:54,988 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-24 18:02:54,997 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 18:02:54,999 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 18:02:55,962 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 18:17:28,867 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-24 18:17:28,940 ] Disconnected from gameserver
+[ 2023-02-24 18:17:29,263 ] News query failed: "Unrecognized event news."
+[ 2023-02-24 18:17:42,246 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-24 18:17:43,224 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-24 18:17:43,228 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 18:17:43,229 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-24 18:17:44,180 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-24 18:18:41,267 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-24 18:18:41,331 ] Disconnected from gameserver
+[ 2023-02-24 18:18:41,383 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:20:58,357 ] Asset loading complete
+[ 2023-02-25 00:21:06,596 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 00:21:10,254 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-25 00:21:10,254 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-25 00:21:10,254 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-25 00:21:10,394 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 00:21:10,405 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:21:10,407 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:21:11,340 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 00:26:00,449 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 00:26:00,535 ] Disconnected from gameserver
+[ 2023-02-25 00:26:01,887 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 00:28:22,293 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:28:23,075 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 00:28:23,078 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:28:23,079 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:28:24,021 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:28:35,797 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 00:28:35,858 ] Disconnected from gameserver
+[ 2023-02-25 00:28:35,908 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:30:06,212 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:30:07,583 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Heip" )
+[ 2023-02-25 00:30:07,586 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:30:07,588 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:30:08,536 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:31:07,902 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 00:31:07,986 ] Disconnected from gameserver
+[ 2023-02-25 00:31:08,036 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:31:09,000 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Heip" )
+[ 2023-02-25 00:31:09,002 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:31:09,009 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 00:31:09,937 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 00:31:14,651 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 00:31:14,712 ] Disconnected from gameserver
+[ 2023-02-25 00:31:14,759 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 08:53:22,962 ] Asset loading complete
+[ 2023-02-25 08:53:34,837 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 08:53:35,973 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-25 08:53:35,973 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-25 08:53:35,973 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-25 08:53:36,044 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 08:53:36,052 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 08:53:36,054 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 08:53:37,031 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 09:07:00,449 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342217001 found"
+[ 2023-02-25 09:07:00,789 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342217001 found"
+[ 2023-02-25 09:07:16,136 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342217181 found"
+[ 2023-02-25 09:07:16,580 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342217181 found"
+[ 2023-02-25 09:08:52,478 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216983 found"
+[ 2023-02-25 09:08:52,929 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216983 found"
+[ 2023-02-25 09:09:08,922 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342217002 found"
+[ 2023-02-25 09:16:16,918 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257095 found"
+[ 2023-02-25 09:38:14,672 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342221307 found"
+[ 2023-02-25 09:38:15,019 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342221307 found"
+[ 2023-02-25 09:57:07,071 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 09:57:07,202 ] Disconnected from gameserver
+[ 2023-02-25 09:57:07,518 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 09:57:17,657 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 09:57:19,311 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 09:57:19,315 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 09:57:19,317 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 09:57:20,252 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:09:53,773 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:09:53,847 ] Disconnected from gameserver
+[ 2023-02-25 10:09:53,906 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:32:45,034 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:32:45,780 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 10:32:45,783 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:32:45,784 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:32:46,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:33:15,114 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435477 found"
+[ 2023-02-25 10:33:20,772 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:33:20,837 ] Disconnected from gameserver
+[ 2023-02-25 10:33:20,889 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:35:06,452 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:35:16,428 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 10:35:16,431 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:35:16,432 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:35:17,378 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:40:27,622 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:40:27,690 ] Disconnected from gameserver
+[ 2023-02-25 10:40:27,758 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:42:35,451 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:42:36,436 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 10:42:36,439 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:42:36,440 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:42:37,395 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:44:50,971 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:44:51,033 ] Disconnected from gameserver
+[ 2023-02-25 10:44:51,092 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:45:02,054 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 10:45:02,056 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:45:02,059 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:45:02,999 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:45:38,421 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:45:38,481 ] Disconnected from gameserver
+[ 2023-02-25 10:45:38,530 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:45:47,904 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 10:45:47,908 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:45:47,910 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:45:48,858 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:49:43,069 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:49:43,129 ] Disconnected from gameserver
+[ 2023-02-25 10:49:43,188 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:50:02,064 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 10:50:02,068 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:50:02,069 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:50:03,020 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:50:11,618 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:50:11,682 ] Disconnected from gameserver
+[ 2023-02-25 10:50:11,732 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:50:43,104 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:50:47,769 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 10:50:47,772 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:50:47,774 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 10:50:48,720 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 10:50:51,566 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 10:50:51,629 ] Disconnected from gameserver
+[ 2023-02-25 10:50:51,680 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 11:07:19,899 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 11:07:20,509 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 11:07:20,510 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 11:07:20,514 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 11:07:21,459 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 11:11:33,518 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 11:11:33,610 ] Disconnected from gameserver
+[ 2023-02-25 11:11:33,673 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:04:02,226 ] Asset loading complete
+[ 2023-02-25 12:04:09,779 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 12:04:11,549 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-25 12:04:11,550 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-25 12:04:11,550 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-25 12:04:11,617 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 12:04:11,625 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:04:11,626 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:04:12,595 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 12:04:16,846 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 12:04:16,908 ] Disconnected from gameserver
+[ 2023-02-25 12:04:17,194 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 12:04:18,025 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 12:04:18,026 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:04:18,029 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:04:18,976 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:04:21,941 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 12:04:22,002 ] Disconnected from gameserver
+[ 2023-02-25 12:04:22,052 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:04:22,673 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 12:04:22,676 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:04:22,678 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:04:23,614 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:07:02,941 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 12:07:03,006 ] Disconnected from gameserver
+[ 2023-02-25 12:07:03,064 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:07:04,182 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 12:07:04,203 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:07:04,205 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:07:05,128 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:07:06,746 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 12:07:06,809 ] Disconnected from gameserver
+[ 2023-02-25 12:07:06,858 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:07:14,880 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:07:15,664 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 12:07:15,668 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:07:15,669 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:07:16,615 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:13:17,246 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 12:13:17,309 ] Disconnected from gameserver
+[ 2023-02-25 12:13:17,363 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:17:34,499 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:17:40,903 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 12:17:40,906 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:17:40,908 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 12:17:41,851 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 12:25:25,768 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435467 found"
+[ 2023-02-25 12:52:10,551 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342206116 found"
+[ 2023-02-25 12:52:43,049 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255826 found"
+[ 2023-02-25 12:57:33,772 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256005 found"
+[ 2023-02-25 13:00:02,079 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255920 found"
+[ 2023-02-25 13:00:14,704 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256058 found"
+[ 2023-02-25 13:06:18,388 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256123 found"
+[ 2023-02-25 13:26:50,202 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256158 found"
+[ 2023-02-25 13:27:31,207 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342238561 found"
+[ 2023-02-25 13:27:45,074 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255701 found"
+[ 2023-02-25 13:27:50,088 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255699 found"
+[ 2023-02-25 13:27:51,970 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255687 found"
+[ 2023-02-25 13:28:46,092 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255647 found"
+[ 2023-02-25 13:29:05,384 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255644 found"
+[ 2023-02-25 13:38:11,359 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256545 found"
+[ 2023-02-25 13:42:42,179 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256451 found"
+[ 2023-02-25 13:44:37,167 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256208 found"
+[ 2023-02-25 13:44:37,667 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256208 found"
+[ 2023-02-25 13:44:39,431 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256208 found"
+[ 2023-02-25 13:44:41,306 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256208 found"
+[ 2023-02-25 13:44:41,431 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256208 found"
+[ 2023-02-25 13:44:41,883 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256208 found"
+[ 2023-02-25 14:07:00,281 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256959 found"
+[ 2023-02-25 14:07:00,497 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256959 found"
+[ 2023-02-25 14:07:00,677 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256959 found"
+[ 2023-02-25 14:09:58,515 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256487 found"
+[ 2023-02-25 14:21:11,200 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257081 found"
+[ 2023-02-25 14:24:28,935 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256950 found"
+[ 2023-02-25 14:38:45,194 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 14:38:45,280 ] Disconnected from gameserver
+[ 2023-02-25 14:38:45,366 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 14:39:08,203 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 14:39:09,292 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 14:39:09,296 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 14:39:09,300 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 14:39:10,221 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 14:40:18,592 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 14:40:18,659 ] Disconnected from gameserver
+[ 2023-02-25 14:40:18,717 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 14:40:28,450 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 14:40:29,443 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 14:40:29,447 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 14:40:29,448 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 14:40:30,391 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 14:40:32,850 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257222 found"
+[ 2023-02-25 14:40:33,066 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257222 found"
+[ 2023-02-25 14:40:34,176 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257222 found"
+[ 2023-02-25 14:42:01,783 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257180 found"
+[ 2023-02-25 14:42:02,130 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257180 found"
+[ 2023-02-25 14:42:16,928 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257177 found"
+[ 2023-02-25 14:43:10,428 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257186 found"
+[ 2023-02-25 14:43:12,273 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257186 found"
+[ 2023-02-25 15:14:08,042 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 15:14:08,119 ] Disconnected from gameserver
+[ 2023-02-25 15:14:08,185 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 15:14:18,547 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 15:14:18,551 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 15:14:18,553 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 15:14:19,486 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 15:15:06,491 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 15:15:06,552 ] Disconnected from gameserver
+[ 2023-02-25 15:15:06,606 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 16:32:54,236 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 16:50:24,240 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 16:50:26,564 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 16:50:26,569 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 16:50:26,570 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 16:50:27,521 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 17:06:08,042 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 17:06:08,145 ] Disconnected from gameserver
+[ 2023-02-25 17:06:08,216 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 17:09:34,943 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 17:10:29,830 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 17:10:30,902 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 17:10:30,937 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 17:10:30,939 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 17:10:31,835 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 17:29:51,088 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342238529 found"
+[ 2023-02-25 17:32:11,431 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208562 found"
+[ 2023-02-25 17:32:11,762 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208562 found"
+[ 2023-02-25 17:32:12,143 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208561 found"
+[ 2023-02-25 17:32:13,797 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208562 found"
+[ 2023-02-25 17:32:13,923 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208562 found"
+[ 2023-02-25 17:32:14,270 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208561 found"
+[ 2023-02-25 17:32:16,624 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208561 found"
+[ 2023-02-25 17:35:19,171 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208395 found"
+[ 2023-02-25 17:40:25,943 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255241 found"
+[ 2023-02-25 17:44:16,883 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255364 found"
+[ 2023-02-25 17:44:18,239 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255364 found"
+[ 2023-02-25 17:44:18,904 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255364 found"
+[ 2023-02-25 17:51:44,015 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255444 found"
+[ 2023-02-25 18:13:11,750 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342230189 found"
+[ 2023-02-25 18:13:11,764 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342230189 found"
+[ 2023-02-25 18:13:15,971 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342230190 found"
+[ 2023-02-25 18:13:18,333 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342230190 found"
+[ 2023-02-25 18:13:20,527 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342230190 found"
+[ 2023-02-25 18:14:54,883 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342201149 found"
+[ 2023-02-25 18:14:57,128 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342201149 found"
+[ 2023-02-25 18:15:29,182 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342195597 found"
+[ 2023-02-25 18:15:31,099 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342195597 found"
+[ 2023-02-25 18:15:31,265 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342195597 found"
+[ 2023-02-25 18:15:33,902 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342195597 found"
+[ 2023-02-25 19:02:56,392 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 19:02:56,504 ] Disconnected from gameserver
+[ 2023-02-25 19:02:56,576 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:03:02,805 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:03:03,676 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 19:03:03,679 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:03:03,681 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:03:04,629 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:03:18,990 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 19:03:19,078 ] Disconnected from gameserver
+[ 2023-02-25 19:03:19,128 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:03:22,663 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 19:03:22,666 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:03:22,668 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:03:23,614 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:03:53,890 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 19:03:53,951 ] Disconnected from gameserver
+[ 2023-02-25 19:03:54,002 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:04:02,100 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:04:03,666 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 19:04:03,670 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:04:03,671 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:04:04,577 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:08:09,844 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 19:08:09,912 ] Disconnected from gameserver
+[ 2023-02-25 19:08:09,982 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:08:19,088 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:08:20,539 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 19:08:20,543 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:08:20,545 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:08:21,489 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:08:28,342 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 19:08:28,407 ] Disconnected from gameserver
+[ 2023-02-25 19:08:28,460 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:08:38,407 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:08:39,753 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 19:08:39,755 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:08:39,758 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:08:40,704 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:09:53,826 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228744 found"
+[ 2023-02-25 19:09:56,277 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435471 found"
+[ 2023-02-25 19:10:03,477 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228677 found"
+[ 2023-02-25 19:10:06,172 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228677 found"
+[ 2023-02-25 19:10:08,207 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228677 found"
+[ 2023-02-25 19:10:08,880 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435471 found"
+[ 2023-02-25 19:10:09,206 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435471 found"
+[ 2023-02-25 19:10:10,220 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228677 found"
+[ 2023-02-25 19:10:21,235 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435471 found"
+[ 2023-02-25 19:11:21,399 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435471 found"
+[ 2023-02-25 19:14:32,612 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228930 found"
+[ 2023-02-25 19:14:34,174 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228930 found"
+[ 2023-02-25 19:14:36,986 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228930 found"
+[ 2023-02-25 19:14:42,132 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228970 found"
+[ 2023-02-25 19:14:43,000 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228970 found"
+[ 2023-02-25 19:14:49,014 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342228929 found"
+[ 2023-02-25 19:14:51,021 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256011 found"
+[ 2023-02-25 19:14:52,521 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256011 found"
+[ 2023-02-25 19:14:53,021 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256011 found"
+[ 2023-02-25 19:19:35,542 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 19:19:35,619 ] Disconnected from gameserver
+[ 2023-02-25 19:19:35,682 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:44:08,076 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:44:09,471 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 19:44:09,475 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:44:09,477 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 19:44:10,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 19:58:09,168 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342234535 found"
+[ 2023-02-25 20:03:27,890 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246709 found"
+[ 2023-02-25 20:03:32,911 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246709 found"
+[ 2023-02-25 20:07:03,672 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256999 found"
+[ 2023-02-25 20:07:08,685 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256999 found"
+[ 2023-02-25 20:45:38,852 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256983 found"
+[ 2023-02-25 20:48:09,894 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 20:48:09,964 ] Disconnected from gameserver
+[ 2023-02-25 20:48:10,032 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 20:49:41,572 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 20:49:42,611 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 20:49:42,616 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 20:49:42,618 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 20:49:43,556 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 21:12:18,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246894 found"
+[ 2023-02-25 21:18:58,795 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246894 found"
+[ 2023-02-25 22:14:56,667 ] Error while processing network packet unhandled enum value
+[ 2023-02-25 22:14:56,667 ] "7gD3NwAAAAAAAO4B6QAAAAAAAADuCgIAAAAAAAAA7jIAAAAAAAAAAO5GAAAAAAAAAADuRwAAAAAAAAAA7kgAAAAAAAAAAO4A9zcAAAAAAADuAekAAAAAAAAA7goCAAAAAAAAAO4yAAAAAAAAAADuRgAAAAAAAAAA7kcAAAAAAAAAAO5IAAAAAAAAAADuAPc3AAAAAAAA7gHpAAAAAAAAAO4KAgAAAAAAAADuMgAAAAAAAAAA7kYAAAAAAAAAAO5HAAAAAAAAAADuSAAAAAAAAAAAYRkAZAAsAQUAFAA8AAEAAwAFAAUADwAeAAoAHgA8AAoAHgA8AHPJAC4AAAAAAgAAAABUAAAAAAAAAAAAVQAAAAAAAAAAAFYAAAAAAAAAAABXAAAAAAAAAAAAWAAAAAAAAAAAAFkAAAAAAAAAAABaAAAAAAAAAAAAWwAAAAAAAAAAAMkAAAACAAAAAADLAAAAAgAAAAAAzQAAAAIAAAAAAM8AAAACAAAAAADSAAAAAgAAAAAA5QAAAAIAAAAAAOcAAAACAAAAAAAsAQAAAgAAAAAALQEAAAIAAAAAAC4BAAACAAAAAAAvAQAAAgAAAAAAMAEAAAIAAAAAADEBAAACAAAAAAAyAQAAAgAAAAAAOAEAAAIAAAAAAFABAAACAAAAAABSAQAAAgAAAAAAdQEAAAIAAAAAAJMBAAAAAAAAAACeAQAAAAAAAAAAnwEAAAAAAAAAAKABAAAAAAAAAAChAQAAAAAAAAAAogEAAAAAAAAAAKMBAAACAAAAAACkAQAAAgAAAAAApQEAAAIAAAAAAKgBAAACAAAAAACpAQAAAgAAAAAAqgEAAAIAAAAAAKsBAAACAAAAAACsAQAAAgAAAAAArgEAAAIAAAAAAK8BAAACAAAAAACwAQAAAgAAAAAAsgEAAAAAAAAAALMBAAACAAAAAAC0AQAAAgAAAAAAuAEAAAIAAAAAAMYBAAABAAAAAADLAQAAAgAAAAAA0gEAAAIAAAAAANsBAAACAAAAAADcAQAAAgAAAAAA3QEAAAIAAAAAAN4BAAACAAAAAADkAQAAAAAAAAAA5QEAAAAAAAAAAOYBAAAAAAAAAAA0AgAAAAAAAAAANQIAAAAAAAAAADYCAAAAAAAAAAA3AgAAAAAAAAAAOAIAAAAAAAAAADkCAAAAAAAAAAB0AgAAAgAAAAAAdQIAAAIAAAAAAHsCAAACAAAAAAB8AgAAAgAAAAAAfgIAAAIAAAAAAH8CAAACAAAAAACAAgAAAgAAAAAAggIAAAIAAAAAAIcCAAACAAAAAACeAgAAAAAAAAAAnwIAAAAAAAAAAL8CAAAAAAAAAADJAgAAAgAAAAAAzgIAAAEAAAAAAOACAAACAAAAAAD7AgAAAgAAAAAA/AIAAAIAAAAAAAUDAAAAAAAAAAAGAwAAAAAAAAAABwMAAAAAAAAAAFoDAAAAAAAAAAB3AwAAAQAAAAAAfAMAAAEAAAAAAH0DAAABAAAAAACEAwAAAQAAAAAAuwMAAAIAAAAAALwDAAACAAAAAADEAwAAAgAAAAAAxQMAAAIAAAAAAMYDAAACAAAAAADHAwAAAgAAAAAAyQMAAAIAAAAAAMoDAAACAAAAAADMAwAAAgAAAAAA2wMAAAIAAAAAAOsDAAACAAAAAADzAwAAAgAAAAAABAQAAAEAAAAAAAsEAAAAAAAAAAAXBAAAAAAAAAAAIgQAAAAAAAAAACMEAAAAAAAAAAAkBAAAAAAAAAAAPwQAAAAAAAAAAEUEAAAAAAAAAAB0BAAAAQAAAAAAfQQAAAIAAAAAAI0EAAAAAAAAAACZBAAAAQAAAAAAmwQAAAAAAAAAAJwEAAABAAAAAACdBAAAAQAAAAAAogQAAAEAAAAAAKQEAAABAAAAAACnBAAAAQAAAAAArwQAAAEAAAAAALYEAAACAAAAAADCBAAAAQAAAAAAwwQAAAEAAAAAAMkEAAABAAAAAADLBAAAAQAAAAAAzAQAAAIAAAAAAAkFAAABAAAAAAAKBQAAAQAAAAAAEQUAAAEAAAAAABgFAAACAAAAAAAjBQAAAQAAAAAAMQUAAAEAAAAAADgFAAABAAAAAABYBQAA4wAAAAAAXwUAAAEAAAAAAGMFAAABAAAAAABtBQAAAQAAAAAAbgUAAAEAAAAAAH4FAAABAAAAAACBBQAAAQAAAAAAjgUAAAEAAAAAAJMFAAABAAAAAACkBQAAAQAAAAAAzwUAAAEAAAAAANwFAAABAAAAAADrBQAAAAAAAAAA7gUAAAAAAAAAAO8FAAAAAAAAAADwBQAAAAAAAAAADwYAAAEAAAAAABYGAAABAAAAAAAXBgAAAQAAAAAAGAYAAAEAAAAAABkGAAABAAAAAAAaBgAAAQAAAAAAJgYAAAEAAAAAACgGAAABAAAAAAApBgAAAAAAAAAAKgYAAAAAAAAAACsGAAAAAAAAAAAuBgAAAAAAAAAALwYAAAAAAAAAADAGAAAAAAAAAAAxBgAAAAAAAAAANwYAAAEAAAAAAD4GAAABAAAAAABABgAAAQAAAAAAQgYAAAEAAAAAAEUGAAABAAAAAABIBgAAAQAAAAAAWAYAAAIAAAAAAGoGAAABAAAAAABtBgAAAQAAAAAAnwYAAAIAAAAAAKAGAAACAAAAAAChBgAAAgAAAAAAogYAAAIAAAAAAKMGAAACAAAAAAC2BgAAAQAAAAAAvwYAAAEAAAAAANAGAAACAAAAAADZBgAAAQAAAAAA2gYAAAEAAAAAANsGAAABAAAAAADcBgAAAQAAAAAA3QYAAAEAAAAAAN4GAAABAAAAAADqBgAAAAAAAAAA8gYAAAAAAAAAAPgGAAABAAAAAAD/BgAAAAAAAAAACQcAAAEAAAAAABMHAAABAAAAAAAjBwAAAAAAAAAAJAcAAAAAAAAAACUHAAAAAAAAAABRBwAAAQAAAAAAYgcAAAEAAAAAAGMHAAABAAAAAABkBwAAAQAAAAAApQcAAAEAAAAAAA=="
+[ 2023-02-25 22:15:03,092 ] Asset loading complete
+[ 2023-02-25 22:15:08,086 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 22:15:09,824 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-25 22:15:09,824 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-25 22:15:09,824 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-25 22:15:09,897 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-25 22:15:09,904 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 22:15:09,906 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 22:15:10,865 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 22:57:44,069 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342260366 found"
+[ 2023-02-25 23:19:16,836 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435476 found"
+[ 2023-02-25 23:19:24,849 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435476 found"
+[ 2023-02-25 23:19:32,870 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435476 found"
+[ 2023-02-25 23:19:40,898 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435476 found"
+[ 2023-02-25 23:19:48,925 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435476 found"
+[ 2023-02-25 23:19:56,939 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435476 found"
+[ 2023-02-25 23:51:47,463 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 23:51:47,583 ] Disconnected from gameserver
+[ 2023-02-25 23:51:47,939 ] News query failed: "Unrecognized event news."
+[ 2023-02-25 23:51:52,728 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-25 23:51:52,731 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 23:51:52,734 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 23:51:53,643 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 23:52:17,364 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 23:52:17,426 ] Disconnected from gameserver
+[ 2023-02-25 23:52:17,493 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 23:53:36,591 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 23:53:39,502 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-25 23:53:39,506 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 23:53:39,507 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 23:53:40,487 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 23:57:24,809 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-25 23:57:24,877 ] Disconnected from gameserver
+[ 2023-02-25 23:57:24,938 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 23:57:42,809 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-25 23:57:44,000 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-25 23:57:44,000 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 23:57:44,003 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-25 23:57:44,940 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 00:01:10,215 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 00:01:10,298 ] Disconnected from gameserver
+[ 2023-02-26 00:01:10,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 09:21:19,774 ] Asset loading complete
+[ 2023-02-26 09:21:31,682 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 09:21:41,377 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-26 09:21:41,377 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-26 09:21:41,377 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-26 09:21:41,455 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 09:21:41,463 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 09:21:41,468 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 09:21:43,091 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 09:37:24,217 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208396 found"
+[ 2023-02-26 09:37:24,475 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342208396 found"
+[ 2023-02-26 09:57:11,301 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342258050 found"
+[ 2023-02-26 09:57:12,776 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342258050 found"
+[ 2023-02-26 09:57:13,569 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342258050 found"
+[ 2023-02-26 10:03:49,314 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342258135 found"
+[ 2023-02-26 10:12:28,930 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 10:12:28,997 ] Disconnected from gameserver
+[ 2023-02-26 10:12:29,868 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 10:12:43,120 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:12:44,464 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 10:12:44,468 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:12:44,469 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:12:45,407 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:14:59,181 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 10:14:59,249 ] Disconnected from gameserver
+[ 2023-02-26 10:14:59,303 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:22:26,928 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:22:29,162 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 10:22:29,166 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:22:29,168 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:22:30,110 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:25:21,929 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 10:25:21,996 ] Disconnected from gameserver
+[ 2023-02-26 10:25:22,057 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:25:24,316 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-26 10:25:24,319 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:25:24,321 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:25:25,242 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:25:33,631 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 10:25:33,692 ] Disconnected from gameserver
+[ 2023-02-26 10:25:33,744 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:25:34,960 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 10:25:34,963 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:25:34,965 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 10:25:35,908 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 10:25:57,629 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 10:25:57,695 ] Disconnected from gameserver
+[ 2023-02-26 10:25:57,749 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:23:23,487 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:23:26,031 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 11:23:26,036 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 11:23:26,037 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 11:23:26,985 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:24:55,883 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 11:24:55,951 ] Disconnected from gameserver
+[ 2023-02-26 11:24:56,016 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:25:06,143 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:25:06,822 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 11:25:06,825 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 11:25:06,827 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 11:25:07,773 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:27:50,682 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 11:27:50,753 ] Disconnected from gameserver
+[ 2023-02-26 11:27:50,812 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:27:58,184 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:27:59,687 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 11:27:59,691 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 11:27:59,693 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 11:28:00,626 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 11:37:32,664 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342227256 found"
+[ 2023-02-26 11:39:25,637 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342206109 found"
+[ 2023-02-26 11:46:34,829 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255782 found"
+[ 2023-02-26 11:47:10,450 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198810 found"
+[ 2023-02-26 11:47:26,123 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198806 found"
+[ 2023-02-26 11:47:26,124 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198830 found"
+[ 2023-02-26 11:48:52,474 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255947 found"
+[ 2023-02-26 11:49:10,812 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255949 found"
+[ 2023-02-26 11:51:31,397 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255976 found"
+[ 2023-02-26 11:52:36,838 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255993 found"
+[ 2023-02-26 11:52:54,567 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255995 found"
+[ 2023-02-26 11:53:21,650 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255997 found"
+[ 2023-02-26 11:54:56,838 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256019 found"
+[ 2023-02-26 11:57:19,493 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256044 found"
+[ 2023-02-26 12:02:26,444 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256083 found"
+[ 2023-02-26 12:03:46,823 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256103 found"
+[ 2023-02-26 12:04:23,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256119 found"
+[ 2023-02-26 12:04:54,452 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256112 found"
+[ 2023-02-26 12:04:56,548 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256112 found"
+[ 2023-02-26 12:15:43,536 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 12:15:43,617 ] Disconnected from gameserver
+[ 2023-02-26 12:15:43,688 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:15:45,444 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 12:15:45,448 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:15:45,450 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:15:46,380 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:16:01,081 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 12:16:01,147 ] Disconnected from gameserver
+[ 2023-02-26 12:16:01,210 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:16:07,048 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:16:08,104 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 12:16:08,108 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:16:08,110 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:16:09,052 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:18:02,582 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 12:18:02,648 ] Disconnected from gameserver
+[ 2023-02-26 12:18:02,704 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:18:13,459 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:18:14,825 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 12:18:14,827 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:18:14,830 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:18:15,769 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:24:58,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198833 found"
+[ 2023-02-26 12:25:11,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198958 found"
+[ 2023-02-26 12:25:27,632 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256129 found"
+[ 2023-02-26 12:26:47,997 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256284 found"
+[ 2023-02-26 12:26:51,752 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256284 found"
+[ 2023-02-26 12:26:53,593 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256284 found"
+[ 2023-02-26 12:26:53,594 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256283 found"
+[ 2023-02-26 12:27:17,926 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256119 found"
+[ 2023-02-26 12:27:25,303 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256298 found"
+[ 2023-02-26 12:29:52,522 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256342 found"
+[ 2023-02-26 12:29:54,322 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256341 found"
+[ 2023-02-26 12:30:59,231 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199015 found"
+[ 2023-02-26 12:32:15,300 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256362 found"
+[ 2023-02-26 12:32:28,328 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256362 found"
+[ 2023-02-26 12:34:01,511 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256417 found"
+[ 2023-02-26 12:36:03,755 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199015 found"
+[ 2023-02-26 12:36:17,498 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256455 found"
+[ 2023-02-26 12:38:34,839 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199015 found"
+[ 2023-02-26 12:39:11,936 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199016 found"
+[ 2023-02-26 12:39:16,948 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199016 found"
+[ 2023-02-26 12:39:29,482 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198897 found"
+[ 2023-02-26 12:41:50,706 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199182 found"
+[ 2023-02-26 12:44:57,100 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256629 found"
+[ 2023-02-26 12:45:23,779 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256630 found"
+[ 2023-02-26 12:45:28,788 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256630 found"
+[ 2023-02-26 12:46:27,493 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256656 found"
+[ 2023-02-26 12:46:54,199 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256680 found"
+[ 2023-02-26 12:47:07,857 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256695 found"
+[ 2023-02-26 12:48:33,000 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256724 found"
+[ 2023-02-26 12:50:06,333 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256595 found"
+[ 2023-02-26 12:50:39,328 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256779 found"
+[ 2023-02-26 12:50:58,494 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256787 found"
+[ 2023-02-26 12:51:59,151 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256794 found"
+[ 2023-02-26 12:52:04,159 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256794 found"
+[ 2023-02-26 12:59:07,630 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 12:59:07,697 ] Disconnected from gameserver
+[ 2023-02-26 12:59:07,769 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:59:15,167 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 12:59:16,163 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 12:59:16,167 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:59:16,169 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 12:59:17,082 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:02:50,079 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 13:02:50,148 ] Disconnected from gameserver
+[ 2023-02-26 13:02:50,211 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:02:59,158 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:03:01,967 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 13:03:01,972 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:03:01,973 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:03:02,912 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:13:12,578 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 13:13:12,650 ] Disconnected from gameserver
+[ 2023-02-26 13:13:12,719 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:13:13,934 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 13:13:13,939 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:13:13,941 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:13:14,877 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:25:48,135 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 13:25:48,210 ] Disconnected from gameserver
+[ 2023-02-26 13:25:48,279 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:25:55,534 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:25:56,834 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 13:25:56,839 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:25:56,840 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:25:57,787 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:26:38,230 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 13:26:38,296 ] Disconnected from gameserver
+[ 2023-02-26 13:26:38,353 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:26:47,357 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:26:48,422 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 13:26:48,427 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:26:48,429 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:26:49,362 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:31:57,479 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 13:31:57,549 ] Disconnected from gameserver
+[ 2023-02-26 13:31:57,629 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:32:03,988 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:32:04,748 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 13:32:04,752 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:32:04,753 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:32:05,688 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:32:31,034 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 13:32:31,097 ] Disconnected from gameserver
+[ 2023-02-26 13:32:31,153 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:33:15,714 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:33:17,050 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 13:33:17,054 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:33:17,056 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 13:33:18,004 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 13:34:06,481 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435467 found"
+[ 2023-02-26 13:41:24,579 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342242089 found"
+[ 2023-02-26 13:43:07,498 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255642 found"
+[ 2023-02-26 13:43:36,060 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255635 found"
+[ 2023-02-26 13:43:38,601 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255635 found"
+[ 2023-02-26 13:51:20,808 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257425 found"
+[ 2023-02-26 13:51:43,329 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257533 found"
+[ 2023-02-26 13:51:48,196 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257434 found"
+[ 2023-02-26 13:55:40,561 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257585 found"
+[ 2023-02-26 13:55:43,568 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257585 found"
+[ 2023-02-26 13:55:44,575 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257585 found"
+[ 2023-02-26 13:57:50,596 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257623 found"
+[ 2023-02-26 14:01:42,885 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257692 found"
+[ 2023-02-26 14:01:43,489 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257692 found"
+[ 2023-02-26 14:13:51,700 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257732 found"
+[ 2023-02-26 14:13:59,283 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257801 found"
+[ 2023-02-26 14:14:18,346 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257718 found"
+[ 2023-02-26 14:14:18,347 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257703 found"
+[ 2023-02-26 14:14:18,712 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257703 found"
+[ 2023-02-26 14:15:17,133 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257826 found"
+[ 2023-02-26 14:15:28,476 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257705 found"
+[ 2023-02-26 14:15:29,104 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257683 found"
+[ 2023-02-26 14:15:29,106 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257705 found"
+[ 2023-02-26 14:15:31,438 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257683 found"
+[ 2023-02-26 14:16:00,167 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257682 found"
+[ 2023-02-26 14:16:00,168 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257677 found"
+[ 2023-02-26 14:16:00,171 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257678 found"
+[ 2023-02-26 14:16:00,172 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257685 found"
+[ 2023-02-26 14:16:02,210 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257678 found"
+[ 2023-02-26 14:33:18,230 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 14:33:18,355 ] Disconnected from gameserver
+[ 2023-02-26 14:33:22,618 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:33:24,906 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:33:24,911 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:33:25,847 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:33:29,028 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:33:30,028 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:33:34,132 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:33:34,166 ] Disconnected from gameserver
+[ 2023-02-26 14:33:35,360 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:33:35,364 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:33:36,270 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:33:36,297 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:34:13,056 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:34:13,732 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:34:13,735 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:14,679 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:34:17,831 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:18,831 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:22,935 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:22,940 ] Disconnected from gameserver
+[ 2023-02-26 14:34:24,131 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:34:24,132 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:25,080 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:34:28,233 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:29,233 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:33,331 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:33,335 ] Disconnected from gameserver
+[ 2023-02-26 14:34:34,520 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:34:34,521 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:35,469 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:34:38,635 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:39,684 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:43,781 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:43,786 ] Disconnected from gameserver
+[ 2023-02-26 14:34:46,082 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:34:46,084 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:47,017 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:34:50,184 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:51,184 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:34:55,281 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:34:55,286 ] Disconnected from gameserver
+[ 2023-02-26 14:34:59,762 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:34:59,776 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:35:00,704 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:35:03,884 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:35:04,885 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:35:09,030 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:35:09,036 ] Disconnected from gameserver
+[ 2023-02-26 14:35:14,624 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:35:14,627 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:35:14,629 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:35:15,566 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:36:21,034 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 14:36:21,100 ] Disconnected from gameserver
+[ 2023-02-26 14:37:05,497 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:37:08,239 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:37:08,242 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:37:09,157 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:37:12,332 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:37:13,379 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:37:17,485 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:37:17,493 ] Disconnected from gameserver
+[ 2023-02-26 14:37:18,688 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:37:18,691 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:37:19,628 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:37:22,781 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:37:23,781 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:37:27,830 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "Connection refused" )
+[ 2023-02-26 14:37:27,839 ] Disconnected from gameserver
+[ 2023-02-26 14:37:29,036 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 14:37:29,038 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:37:29,989 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 14:37:30,059 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 14:37:30,710 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435467 found"
+[ 2023-02-26 14:49:29,943 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342232390 found"
+[ 2023-02-26 14:49:34,096 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342232390 found"
+[ 2023-02-26 14:49:34,650 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342232390 found"
+[ 2023-02-26 14:49:35,880 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342232390 found"
+[ 2023-02-26 14:49:37,033 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342232390 found"
+[ 2023-02-26 15:07:04,187 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255237 found"
+[ 2023-02-26 15:07:06,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255248 found"
+[ 2023-02-26 15:07:06,369 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255405 found"
+[ 2023-02-26 15:07:08,952 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255239 found"
+[ 2023-02-26 15:07:08,953 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255258 found"
+[ 2023-02-26 15:07:10,209 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255258 found"
+[ 2023-02-26 15:07:11,237 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255239 found"
+[ 2023-02-26 15:07:11,241 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255258 found"
+[ 2023-02-26 15:07:11,603 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255239 found"
+[ 2023-02-26 15:07:13,702 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255258 found"
+[ 2023-02-26 15:07:13,704 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255239 found"
+[ 2023-02-26 15:07:15,721 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255239 found"
+[ 2023-02-26 15:07:18,027 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255258 found"
+[ 2023-02-26 15:07:18,221 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255258 found"
+[ 2023-02-26 15:07:20,200 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255258 found"
+[ 2023-02-26 15:07:24,916 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255249 found"
+[ 2023-02-26 15:09:48,776 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342242140 found"
+[ 2023-02-26 15:16:41,077 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 15:16:41,178 ] Disconnected from gameserver
+[ 2023-02-26 15:16:41,248 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:16:50,313 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 15:16:50,318 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:16:50,320 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:16:51,251 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:17:14,881 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 15:17:14,947 ] Disconnected from gameserver
+[ 2023-02-26 15:17:15,032 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:17:17,471 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 15:17:17,475 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:17:17,477 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:17:18,410 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:17:21,680 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 15:17:21,746 ] Disconnected from gameserver
+[ 2023-02-26 15:17:21,804 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:17:22,768 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-26 15:17:22,773 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:17:22,775 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:17:23,687 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:17:31,380 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 15:17:31,444 ] Disconnected from gameserver
+[ 2023-02-26 15:17:31,500 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:17:34,567 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 15:17:34,571 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:17:34,573 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:17:35,505 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:27:02,931 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 15:27:03,004 ] Disconnected from gameserver
+[ 2023-02-26 15:27:03,082 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:27:23,808 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-26 15:27:23,812 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:27:23,814 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:27:24,749 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:27:42,332 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 15:27:42,398 ] Disconnected from gameserver
+[ 2023-02-26 15:27:42,454 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:27:44,377 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-26 15:27:44,381 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:27:44,382 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 15:27:45,319 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:28:06,483 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 15:28:06,547 ] Disconnected from gameserver
+[ 2023-02-26 15:28:06,604 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 15:52:45,371 ] Asset loading complete
+[ 2023-02-26 15:59:58,705 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 15:59:59,890 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-26 15:59:59,891 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-26 15:59:59,891 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-26 15:59:59,963 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 16:00:00,028 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 16:00:00,031 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 16:00:00,938 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 16:05:42,887 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231936 found"
+[ 2023-02-26 16:11:47,545 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256169 found"
+[ 2023-02-26 16:12:31,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256177 found"
+[ 2023-02-26 16:12:33,841 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256177 found"
+[ 2023-02-26 16:12:35,952 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256177 found"
+[ 2023-02-26 16:12:39,959 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256173 found"
+[ 2023-02-26 16:12:47,577 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 16:12:47,698 ] Disconnected from gameserver
+[ 2023-02-26 16:12:48,006 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 16:12:52,529 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 16:12:52,533 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 16:12:52,535 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 16:12:53,472 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 16:13:10,013 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256178 found"
+[ 2023-02-26 16:13:10,610 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342256178 found"
+[ 2023-02-26 16:13:19,325 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 16:13:19,388 ] Disconnected from gameserver
+[ 2023-02-26 16:13:19,447 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:05:03,183 ] Asset loading complete
+[ 2023-02-26 17:05:11,766 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 17:05:13,328 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-26 17:05:13,328 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-26 17:05:13,328 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-26 17:05:13,418 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 17:05:13,425 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:05:13,427 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:05:14,367 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 17:12:25,538 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:12:25,609 ] Disconnected from gameserver
+[ 2023-02-26 17:12:26,663 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 17:12:27,740 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 17:12:27,743 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:12:27,745 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:12:28,692 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:13,438 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:13:13,504 ] Disconnected from gameserver
+[ 2023-02-26 17:13:13,579 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:15,116 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 17:13:15,120 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:15,121 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:16,048 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:30,540 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:13:30,610 ] Disconnected from gameserver
+[ 2023-02-26 17:13:30,688 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:32,004 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 17:13:32,008 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:32,009 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:32,943 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:33,839 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:13:33,904 ] Disconnected from gameserver
+[ 2023-02-26 17:13:33,963 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:35,080 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 17:13:35,083 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:35,085 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:36,034 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:37,388 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:13:37,453 ] Disconnected from gameserver
+[ 2023-02-26 17:13:37,531 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:13:38,869 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-26 17:13:38,873 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:38,874 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:13:39,797 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:14:08,991 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:14:09,055 ] Disconnected from gameserver
+[ 2023-02-26 17:14:09,129 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:14:10,366 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-26 17:14:10,369 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:14:10,371 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:14:11,297 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:14:12,741 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:14:12,802 ] Disconnected from gameserver
+[ 2023-02-26 17:14:12,873 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:14:14,021 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 17:14:14,024 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:14:14,026 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:14:14,956 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:14:16,541 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:14:16,604 ] Disconnected from gameserver
+[ 2023-02-26 17:14:16,663 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:14:17,517 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 17:14:17,521 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:14:17,522 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 17:14:18,455 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 17:14:31,990 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 17:14:32,054 ] Disconnected from gameserver
+[ 2023-02-26 17:14:32,134 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 18:17:43,684 ] Asset loading complete
+[ 2023-02-26 18:17:53,764 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 18:17:59,607 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-26 18:17:59,607 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-26 18:17:59,607 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-26 18:17:59,704 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 18:17:59,712 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 18:17:59,713 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 18:18:00,638 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 18:52:15,291 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 18:52:15,374 ] Disconnected from gameserver
+[ 2023-02-26 18:52:15,702 ] News query failed: "Unrecognized event news."
+[ 2023-02-26 18:52:43,745 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 18:52:43,749 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 18:52:43,751 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 18:52:44,677 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 18:53:56,577 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435482 found"
+[ 2023-02-26 18:57:32,991 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 18:57:33,059 ] Disconnected from gameserver
+[ 2023-02-26 18:57:33,145 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 18:57:40,964 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 18:57:41,740 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 18:57:41,743 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 18:57:41,745 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 18:57:42,678 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 19:11:38,342 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 19:11:38,452 ] Disconnected from gameserver
+[ 2023-02-26 19:11:38,515 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 19:11:46,961 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 19:11:48,666 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 19:11:48,669 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 19:11:48,672 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 19:11:49,598 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 19:27:39,263 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255491 found"
+[ 2023-02-26 19:27:41,583 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255491 found"
+[ 2023-02-26 19:27:41,874 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255491 found"
+[ 2023-02-26 19:28:57,617 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255470 found"
+[ 2023-02-26 19:30:18,278 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255454 found"
+[ 2023-02-26 19:30:18,298 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255454 found"
+[ 2023-02-26 19:30:18,298 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255246 found"
+[ 2023-02-26 19:32:33,264 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342255397 found"
+[ 2023-02-26 19:35:25,937 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259269 found"
+[ 2023-02-26 19:44:15,455 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259178 found"
+[ 2023-02-26 19:53:26,741 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259508 found"
+[ 2023-02-26 19:53:27,478 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259508 found"
+[ 2023-02-26 19:53:30,597 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259500 found"
+[ 2023-02-26 19:53:33,055 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259500 found"
+[ 2023-02-26 19:53:33,056 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259599 found"
+[ 2023-02-26 19:53:33,763 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259599 found"
+[ 2023-02-26 19:54:41,954 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259618 found"
+[ 2023-02-26 19:57:17,962 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259388 found"
+[ 2023-02-26 19:57:17,963 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259360 found"
+[ 2023-02-26 19:57:20,857 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259388 found"
+[ 2023-02-26 19:57:20,858 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259360 found"
+[ 2023-02-26 20:03:08,135 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259783 found"
+[ 2023-02-26 20:19:01,887 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 20:19:01,962 ] Disconnected from gameserver
+[ 2023-02-26 20:19:02,033 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 20:19:03,160 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 20:19:03,164 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 20:19:03,166 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 20:19:04,082 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 20:20:08,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342260217 found"
+[ 2023-02-26 20:20:09,093 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342260217 found"
+[ 2023-02-26 20:22:55,841 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259870 found"
+[ 2023-02-26 20:22:56,981 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259870 found"
+[ 2023-02-26 20:22:58,467 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259910 found"
+[ 2023-02-26 20:22:58,468 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259893 found"
+[ 2023-02-26 20:22:58,468 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259870 found"
+[ 2023-02-26 20:22:58,890 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259870 found"
+[ 2023-02-26 20:22:59,682 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259893 found"
+[ 2023-02-26 20:22:59,939 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259870 found"
+[ 2023-02-26 20:22:59,980 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259870 found"
+[ 2023-02-26 20:23:09,328 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342260289 found"
+[ 2023-02-26 20:24:49,913 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259754 found"
+[ 2023-02-26 20:25:19,606 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342259771 found"
+[ 2023-02-26 20:34:00,625 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342260560 found"
+[ 2023-02-26 20:36:07,787 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342260182 found"
+[ 2023-02-26 20:56:01,941 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 20:56:02,010 ] Disconnected from gameserver
+[ 2023-02-26 20:56:02,075 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 20:56:10,088 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 20:56:10,770 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 20:56:10,774 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 20:56:10,776 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 20:56:11,709 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 20:57:05,790 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 20:57:05,854 ] Disconnected from gameserver
+[ 2023-02-26 20:57:05,913 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 20:57:12,924 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 20:57:14,762 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 20:57:14,764 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 20:57:14,767 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 20:57:15,707 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:15:37,289 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198808 found"
+[ 2023-02-26 21:16:21,433 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261088 found"
+[ 2023-02-26 21:16:51,169 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198899 found"
+[ 2023-02-26 21:17:02,299 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342198897 found"
+[ 2023-02-26 21:17:19,444 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199016 found"
+[ 2023-02-26 21:19:15,162 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261134 found"
+[ 2023-02-26 21:19:20,182 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261134 found"
+[ 2023-02-26 21:19:56,160 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342199180 found"
+[ 2023-02-26 21:20:32,359 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261202 found"
+[ 2023-02-26 21:22:47,616 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261161 found"
+[ 2023-02-26 21:23:19,489 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261242 found"
+[ 2023-02-26 21:24:52,827 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261255 found"
+[ 2023-02-26 21:26:44,761 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261220 found"
+[ 2023-02-26 21:26:57,026 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261311 found"
+[ 2023-02-26 21:27:23,785 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261322 found"
+[ 2023-02-26 21:27:38,243 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261324 found"
+[ 2023-02-26 21:27:41,479 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261324 found"
+[ 2023-02-26 21:27:43,617 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261324 found"
+[ 2023-02-26 21:28:41,871 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261301 found"
+[ 2023-02-26 21:28:46,878 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261301 found"
+[ 2023-02-26 21:29:13,246 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261309 found"
+[ 2023-02-26 21:29:26,982 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261336 found"
+[ 2023-02-26 21:32:03,147 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261337 found"
+[ 2023-02-26 21:32:40,335 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261358 found"
+[ 2023-02-26 21:33:00,790 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261401 found"
+[ 2023-02-26 21:33:48,395 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261387 found"
+[ 2023-02-26 21:35:31,075 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261377 found"
+[ 2023-02-26 21:35:32,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261391 found"
+[ 2023-02-26 21:35:58,747 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261443 found"
+[ 2023-02-26 21:37:08,049 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261431 found"
+[ 2023-02-26 21:38:24,275 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261491 found"
+[ 2023-02-26 21:38:47,961 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261428 found"
+[ 2023-02-26 21:39:04,058 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261421 found"
+[ 2023-02-26 21:39:50,815 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261510 found"
+[ 2023-02-26 21:41:24,205 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261503 found"
+[ 2023-02-26 21:41:26,053 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261505 found"
+[ 2023-02-26 21:43:51,621 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261571 found"
+[ 2023-02-26 21:43:56,059 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261490 found"
+[ 2023-02-26 21:43:56,643 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342261482 found"
+[ 2023-02-26 21:51:16,942 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 21:51:17,041 ] Disconnected from gameserver
+[ 2023-02-26 21:51:17,113 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:51:25,547 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:51:26,591 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 21:51:26,593 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:51:26,596 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:51:27,538 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:54:30,391 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 21:54:30,455 ] Disconnected from gameserver
+[ 2023-02-26 21:54:30,516 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:55:59,743 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:56:00,416 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "CanaryGod" )
+[ 2023-02-26 21:56:00,420 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:56:00,421 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:56:01,359 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:56:10,442 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 21:56:10,506 ] Disconnected from gameserver
+[ 2023-02-26 21:56:10,563 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:57:53,662 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:57:55,006 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-26 21:57:55,010 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:57:55,012 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:57:55,958 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:58:28,290 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 21:58:28,356 ] Disconnected from gameserver
+[ 2023-02-26 21:58:28,421 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 21:58:29,469 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-26 21:58:29,473 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:58:29,475 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 21:58:30,408 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 22:00:22,189 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 22:00:22,254 ] Disconnected from gameserver
+[ 2023-02-26 22:00:22,328 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 22:00:23,573 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-26 22:00:23,580 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 22:00:23,581 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-26 22:00:24,520 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-26 22:00:40,687 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-26 22:00:40,780 ] Disconnected from gameserver
+[ 2023-02-26 22:00:40,839 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 07:37:42,000 ] Asset loading complete
+[ 2023-02-27 07:37:49,657 ] News query failed: "Unrecognized event news."
+[ 2023-02-27 07:37:51,961 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-27 07:37:51,961 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-27 07:37:51,962 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-27 07:37:52,092 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-27 07:37:52,097 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:37:52,104 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:37:53,034 ] News query failed: "Unrecognized event news."
+[ 2023-02-27 07:41:21,711 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-27 07:41:21,780 ] Disconnected from gameserver
+[ 2023-02-27 07:41:22,809 ] News query failed: "Unrecognized event news."
+[ 2023-02-27 07:41:28,481 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-27 07:41:28,485 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:41:28,486 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:41:29,427 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 07:41:30,711 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-27 07:41:30,777 ] Disconnected from gameserver
+[ 2023-02-27 07:41:30,856 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 07:41:31,794 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-27 07:41:31,797 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:41:31,801 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:41:32,725 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 07:41:37,558 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-27 07:41:37,624 ] Disconnected from gameserver
+[ 2023-02-27 07:41:37,682 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 07:41:38,980 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-27 07:41:38,984 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:41:38,986 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 07:41:39,927 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 07:41:44,815 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-27 07:41:44,878 ] Disconnected from gameserver
+[ 2023-02-27 07:41:44,951 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 18:17:25,517 ] Asset loading complete
+[ 2023-02-27 18:17:30,399 ] News query failed: "Unrecognized event news."
+[ 2023-02-27 18:17:31,878 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-27 18:17:31,878 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-27 18:17:31,878 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-27 18:17:31,979 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-02-27 18:17:31,988 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 18:17:31,990 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 18:17:32,938 ] News query failed: "Unrecognized event news."
+[ 2023-02-27 18:17:37,423 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-27 18:17:37,491 ] Disconnected from gameserver
+[ 2023-02-27 18:17:37,807 ] News query failed: "Unrecognized event news."
+[ 2023-02-27 18:17:38,847 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Chadbrad" )
+[ 2023-02-27 18:17:38,851 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 18:17:38,853 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 18:17:39,791 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 18:17:40,922 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-27 18:17:40,984 ] Disconnected from gameserver
+[ 2023-02-27 18:17:41,041 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 18:17:42,205 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-02-27 18:17:42,209 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 18:17:42,210 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
+[ 2023-02-27 18:17:43,145 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-02-27 18:17:44,721 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
+[ 2023-02-27 18:17:44,784 ] Disconnected from gameserver
+[ 2023-02-27 18:17:44,844 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
