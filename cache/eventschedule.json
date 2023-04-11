@@ -3,25 +3,25 @@
         {
             "colordark": "#235c00",
             "colorlight": "#2d7400",
-            "description": "Otserver br example 1 description double exp and a half, double loot !chance!, regular spawn and double skill",
+            "description": "Double skill weekend",
             "displaypriority": 6,
-            "enddate": 1703890800,
+            "enddate": 1677970800,
             "isseasonal": false,
-            "name": "Otservbr example 1",
+            "name": "Double skill",
             "specialevent": 0,
-            "startdate": 1604358000
+            "startdate": 1677798000
         },
         {
-            "colordark": "#735D10",
-            "colorlight": "#8B6D05",
-            "description": "Otserver br example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Tranans bday-event!",
             "displaypriority": 6,
-            "enddate": 1703977200,
+            "enddate": 1679180400,
             "isseasonal": false,
-            "name": "Otservbr example 2",
-            "specialevent": 0,
-            "startdate": 1643756400
+            "name": "Tranan Bday",
+            "specialevent": 1,
+            "startdate": 1679007600
         }
     ],
-    "lastupdatetimestamp": 1677518246
+    "lastupdatetimestamp": 1681220805
 }

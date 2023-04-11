@@ -1,9 +1,9 @@
 {
-    "position": "top",
+    "position": "bottom",
     "showAxeFighting": false,
     "showClubFighting": false,
     "showDistanceFighting": false,
-    "showExperience": true,
+    "showExperience": false,
     "showFishing": false,
     "showFistFighting": false,
     "showMagicLevel": false,

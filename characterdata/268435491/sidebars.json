@@ -6,8 +6,8 @@
     "battleListsOptions": {
         "0": {
             "battleListFilters": [
-                "hidePlayers",
-                "hideNPCs"
+                "hideNPCs",
+                "hidePlayers"
             ],
             "battleListSortOrder": [
                 "byAgeAscending",
@@ -18,7 +18,7 @@
             "isPartyView": false,
             "isPrimary": true,
             "name": "",
-            "showFilters": false
+            "showFilters": true
         },
         "253": {
             "battleListFilters": [
@@ -80,7 +80,7 @@
     "npcTradeOptions": {
         "allowLargeTradesWithoutWarning": false,
         "allowSellingEquippedItems": false,
-        "contentHeight": 0,
+        "contentHeight": 381,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -108,7 +108,7 @@
         "chaseModeEnabled": false,
         "combatMode": 1,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -120,13 +120,16 @@
                     "type": "battleList"
                 },
                 {
-                    "instance": 1,
-                    "type": "container"
+                    "type": "vip"
                 }
             ],
             [
                 {
                     "type": "skills"
+                },
+                {
+                    "instance": 1,
+                    "type": "container"
                 }
             ],
             [
@@ -137,7 +140,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 418,
+        "contentHeight": 201,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]
@@ -172,11 +175,12 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 200,
         "contentMaximized": true,
         "hideOfflineVips": false,
         "showGrouped": false,
         "vipSortOrder": [
+            "byState"
         ]
     },
     "xpAnalyserWidgetOptions": {
