@@ -1,154 +1,225 @@
-[ 2023-07-15 13:53:56,084 ] Using spritesheet cache size of 910
-[ 2023-07-15 13:53:57,265 ] Asset loading complete
-[ 2023-07-15 13:54:03,311 ] Update failed. Please reinstall Tibia to update your client.
-[ 2023-07-15 13:54:20,843 ] Using spritesheet cache size of 910
-[ 2023-07-15 13:54:21,875 ] Asset loading complete
-[ 2023-07-15 13:55:09,435 ] Using spritesheet cache size of 910
-[ 2023-07-15 13:55:10,185 ] Asset loading complete
-[ 2023-07-15 13:55:12,857 ] Update failed. Please reinstall Tibia to update your client.
-[ 2023-07-15 14:01:02,515 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:01:03,276 ] Asset loading complete
-[ 2023-07-15 14:03:43,459 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:03:44,206 ] Asset loading complete
-[ 2023-07-15 14:04:13,445 ] BattlEye: "Initialized (v1.249)"
-[ 2023-07-15 14:04:13,445 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2023-07-15 14:04:13,445 ] BattlEye: "Restarting client is necessary, update required"
-[ 2023-07-15 14:04:13,445 ] BattlEye: "Config entry: GameID tibia"
-[ 2023-07-15 14:04:13,445 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2023-07-15 14:04:13,478 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:04:13,483 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:04:13,493 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:05:46,237 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:05:46,278 ] Disconnected from gameserver
-[ 2023-07-15 14:09:42,611 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:09:43,356 ] Asset loading complete
-[ 2023-07-15 14:09:56,772 ] BattlEye: "Initialized (v1.249)"
-[ 2023-07-15 14:09:56,772 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2023-07-15 14:09:56,772 ] BattlEye: "Restarting client is necessary, update required"
-[ 2023-07-15 14:09:56,772 ] BattlEye: "Config entry: GameID tibia"
-[ 2023-07-15 14:09:56,772 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2023-07-15 14:09:56,805 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:09:56,810 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:09:56,821 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:10:04,541 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:10:04,580 ] Disconnected from gameserver
-[ 2023-07-15 14:10:26,057 ] QWindowsWindow::setGeometry: Unable to set geometry 1047x600+480+363 (frame: 1063x639+472+332) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1047x650+480+363 (frame: 1063x689+472+332) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
-[ 2023-07-15 14:10:26,060 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:10:26,813 ] Asset loading complete
-[ 2023-07-15 14:10:50,526 ] BattlEye: "Initialized (v1.249)"
-[ 2023-07-15 14:10:50,526 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2023-07-15 14:10:50,526 ] BattlEye: "Restarting client is necessary, update required"
-[ 2023-07-15 14:10:50,526 ] BattlEye: "Config entry: GameID tibia"
-[ 2023-07-15 14:10:50,526 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2023-07-15 14:10:50,569 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:10:50,574 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:10:50,584 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:12:20,132 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:12:20,174 ] Disconnected from gameserver
-[ 2023-07-15 14:12:28,682 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:12:28,684 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:12:28,694 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:12:29,635 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:13:24,081 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:13:24,123 ] Disconnected from gameserver
-[ 2023-07-15 14:13:24,157 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:13:47,728 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:13:49,389 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2023-07-15 14:13:49,390 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:13:49,401 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:13:50,338 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:14:16,182 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:14:16,223 ] Disconnected from gameserver
-[ 2023-07-15 14:14:16,257 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:18:17,478 ] QWindowsWindow::setGeometry: Unable to set geometry 1047x600+480+363 (frame: 1063x639+472+332) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1047x650+480+363 (frame: 1063x689+472+332) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
-[ 2023-07-15 14:18:17,480 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:18:18,231 ] Asset loading complete
-[ 2023-07-15 14:18:31,160 ] BattlEye: "Initialized (v1.249)"
-[ 2023-07-15 14:18:31,160 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2023-07-15 14:18:31,160 ] BattlEye: "Restarting client is necessary, update required"
-[ 2023-07-15 14:18:31,160 ] BattlEye: "Config entry: GameID tibia"
-[ 2023-07-15 14:18:31,160 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2023-07-15 14:18:31,205 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2023-07-15 14:18:31,210 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:18:31,221 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:18:35,944 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:18:35,985 ] Disconnected from gameserver
-[ 2023-07-15 14:18:48,738 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:18:49,331 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:18:49,333 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:18:49,344 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:18:50,291 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:19:31,280 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
-[ 2023-07-15 14:19:31,285 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
-[ 2023-07-15 14:20:18,195 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:20:18,236 ] Disconnected from gameserver
-[ 2023-07-15 14:20:18,280 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:27:25,849 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:27:26,404 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:27:26,406 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:27:26,417 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:27:27,356 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:29:38,844 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:29:38,886 ] Disconnected from gameserver
-[ 2023-07-15 14:29:38,923 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:30:27,542 ] QWindowsWindow::setGeometry: Unable to set geometry 1047x600+480+363 (frame: 1063x639+472+332) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1047x650+480+363 (frame: 1063x689+472+332) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
-[ 2023-07-15 14:30:27,546 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:30:28,357 ] Asset loading complete
-[ 2023-07-15 14:30:38,742 ] BattlEye: "Initialized (v1.249)"
-[ 2023-07-15 14:30:38,742 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2023-07-15 14:30:38,742 ] BattlEye: "Restarting client is necessary, update required"
-[ 2023-07-15 14:30:38,742 ] BattlEye: "Config entry: GameID tibia"
-[ 2023-07-15 14:30:38,742 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2023-07-15 14:30:38,788 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:30:38,794 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:30:38,804 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:30:47,824 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:30:47,864 ] Disconnected from gameserver
-[ 2023-07-15 14:30:55,715 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:30:55,718 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:30:55,728 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:30:56,686 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:31:15,023 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:31:15,065 ] Disconnected from gameserver
-[ 2023-07-15 14:31:15,100 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:31:17,364 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
-[ 2023-07-15 14:31:17,366 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:31:17,376 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:31:18,323 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:32:10,873 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:32:10,924 ] Disconnected from gameserver
-[ 2023-07-15 14:32:10,954 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:32:24,265 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:32:25,934 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2023-07-15 14:32:25,935 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:32:25,947 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2023-07-15 14:32:26,886 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:33:16,523 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 14:33:16,565 ] Disconnected from gameserver
-[ 2023-07-15 14:33:16,600 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
-[ 2023-07-15 14:47:04,303 ] QWindowsWindow::setGeometry: Unable to set geometry 1047x600+480+363 (frame: 1063x639+472+332) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1047x650+480+363 (frame: 1063x689+472+332) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
-[ 2023-07-15 14:47:04,306 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:47:05,049 ] Asset loading complete
-[ 2023-07-15 14:53:41,876 ] QWindowsWindow::setGeometry: Unable to set geometry 1047x600+480+363 (frame: 1063x639+472+332) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1047x650+480+363 (frame: 1063x689+472+332) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
-[ 2023-07-15 14:53:41,879 ] Using spritesheet cache size of 910
-[ 2023-07-15 14:53:42,841 ] Asset loading complete
-[ 2023-07-15 16:33:51,443 ] QWindowsWindow::setGeometry: Unable to set geometry 1047x600+480+363 (frame: 1063x639+472+332) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1047x650+480+363 (frame: 1063x689+472+332) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
-[ 2023-07-15 16:33:51,445 ] Using spritesheet cache size of 910
-[ 2023-07-15 16:33:54,865 ] Asset loading complete
-[ 2023-07-15 16:34:07,567 ] BattlEye: "Initialized (v1.249)"
-[ 2023-07-15 16:34:07,567 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2023-07-15 16:34:07,567 ] BattlEye: "Restarting client is necessary, update required"
-[ 2023-07-15 16:34:07,567 ] BattlEye: "Config entry: GameID tibia"
-[ 2023-07-15 16:34:07,567 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2023-07-15 16:34:07,616 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
-[ 2023-07-15 16:34:07,620 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
-[ 2023-07-15 16:34:07,621 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
-[ 2023-07-15 16:34:16,261 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 16:34:16,303 ] Disconnected from gameserver
-[ 2023-07-15 16:34:20,640 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
-[ 2023-07-15 16:34:20,642 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
-[ 2023-07-15 16:34:20,643 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"
-[ 2023-07-15 16:34:21,604 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
-[ 2023-07-15 16:34:33,361 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Nerdherd OT"  was disconnected ( "The remote host closed the connection" )
-[ 2023-07-15 16:34:33,406 ] Disconnected from gameserver
-[ 2023-07-15 16:34:33,446 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/login.php") ) due to too many retries.
+[ 2023-07-26 13:32:43,484 ] Using spritesheet cache size of 910
+[ 2023-07-26 13:32:46,030 ] Asset loading complete
+[ 2023-07-26 13:33:14,833 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-26 13:33:14,833 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-26 13:33:14,833 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-26 13:33:14,833 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-26 13:33:14,833 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-26 13:33:14,865 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:33:14,868 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:18,985 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:19,985 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:24,085 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:24,089 ] Disconnected from gameserver
+[ 2023-07-26 13:33:25,271 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:33:25,285 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:29,385 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:30,385 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:34,485 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:34,488 ] Disconnected from gameserver
+[ 2023-07-26 13:33:35,613 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:33:35,615 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:39,735 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:40,735 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:44,835 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:44,837 ] Disconnected from gameserver
+[ 2023-07-26 13:33:45,955 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:33:45,956 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:46,932 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:33:50,086 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:51,085 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:55,185 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:33:55,188 ] Disconnected from gameserver
+[ 2023-07-26 13:33:57,405 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:33:57,406 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:33:58,385 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:34:01,535 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:34:02,535 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:34:06,635 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:34:06,637 ] Disconnected from gameserver
+[ 2023-07-26 13:35:52,863 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:35:54,505 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:35:54,507 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:35:55,479 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:35:58,585 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:35:59,585 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:36:03,685 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:36:03,687 ] Disconnected from gameserver
+[ 2023-07-26 13:36:04,817 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:36:04,835 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:36:05,608 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:36:05,792 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:45:29,680 ] Using spritesheet cache size of 910
+[ 2023-07-26 13:45:30,467 ] Asset loading complete
+[ 2023-07-26 13:45:47,204 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-26 13:45:47,204 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-26 13:45:47,204 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-26 13:45:47,204 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-26 13:45:47,204 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-26 13:45:47,237 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:45:47,241 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:45:51,380 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:45:52,430 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:45:56,530 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:45:56,534 ] Disconnected from gameserver
+[ 2023-07-26 13:45:57,709 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:45:57,711 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:46:01,830 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:46:02,829 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:46:06,929 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:46:06,934 ] Disconnected from gameserver
+[ 2023-07-26 13:46:08,071 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:46:08,080 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:46:09,041 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:46:09,342 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:48:39,109 ] Using spritesheet cache size of 910
+[ 2023-07-26 13:48:39,980 ] Asset loading complete
+[ 2023-07-26 13:51:21,443 ] Using spritesheet cache size of 910
+[ 2023-07-26 13:51:22,208 ] Asset loading complete
+[ 2023-07-26 13:51:32,397 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-26 13:51:32,397 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-26 13:51:32,397 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-26 13:51:32,397 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-26 13:51:32,397 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-26 13:51:32,433 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:51:32,437 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:51:36,566 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:51:37,567 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:51:41,666 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:51:41,669 ] Disconnected from gameserver
+[ 2023-07-26 13:51:42,847 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:51:42,848 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:51:46,967 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:51:47,967 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:51:52,067 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:51:52,070 ] Disconnected from gameserver
+[ 2023-07-26 13:51:53,191 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 13:51:53,192 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:51:54,169 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 13:51:57,316 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 13:51:58,317 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 13:51:59,850 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:09:08,211 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:09:12,965 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:09:12,967 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:09:13,935 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:09:17,066 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:09:18,067 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:09:22,166 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:09:22,170 ] Disconnected from gameserver
+[ 2023-07-26 14:09:23,303 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:09:23,317 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:09:24,276 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:09:27,417 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:09:28,416 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:09:32,517 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:09:32,520 ] Disconnected from gameserver
+[ 2023-07-26 14:09:34,737 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:09:34,738 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:09:35,714 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:09:38,816 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:09:39,816 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:09:43,917 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:09:43,919 ] Disconnected from gameserver
+[ 2023-07-26 14:09:48,342 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:09:48,344 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:09:49,131 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:09:49,307 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:17:01,140 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:17:01,989 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 14:17:01,990 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:17:02,963 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:17:06,116 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:17:07,116 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:17:11,217 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:17:11,220 ] Disconnected from gameserver
+[ 2023-07-26 14:17:23,087 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:17:30,487 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:17:30,488 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:17:31,464 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:17:34,616 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:17:35,616 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:17:39,160 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:19:26,806 ] Using spritesheet cache size of 910
+[ 2023-07-26 14:19:28,176 ] Asset loading complete
+[ 2023-07-26 14:19:38,382 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-26 14:19:38,382 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-26 14:19:38,382 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-26 14:19:38,382 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-26 14:19:38,382 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-26 14:19:38,413 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:19:38,414 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:19:38,428 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:19:38,446 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-26 14:19:38,449 ] Disconnected from gameserver
+[ 2023-07-26 14:19:49,689 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:19:49,696 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:19:49,707 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:19:49,746 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-26 14:19:49,748 ] Disconnected from gameserver
+[ 2023-07-26 14:19:50,668 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:19:52,488 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:24:22,371 ] Retrying to obtain clipboard.
+[ 2023-07-26 14:24:22,371 ] Retrying to obtain clipboard.
+[ 2023-07-26 14:24:22,422 ] Retrying to obtain clipboard.
+[ 2023-07-26 14:24:24,392 ] Retrying to obtain clipboard.
+[ 2023-07-26 14:24:38,504 ] Retrying to obtain clipboard.
+[ 2023-07-26 14:25:33,933 ] Retrying to obtain clipboard.
+[ 2023-07-26 14:26:48,257 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:26:49,308 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:26:49,310 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:26:49,320 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:26:50,276 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:27:18,746 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-26 14:27:18,785 ] Disconnected from gameserver
+[ 2023-07-26 14:27:18,810 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:28:06,378 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:28:07,018 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:28:07,019 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:28:07,030 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:28:07,996 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:28:09,246 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-26 14:28:09,284 ] Disconnected from gameserver
+[ 2023-07-26 14:28:09,308 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:28:40,962 ] Using spritesheet cache size of 910
+[ 2023-07-26 14:28:41,824 ] Asset loading complete
+[ 2023-07-26 14:28:55,197 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-26 14:28:55,197 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-26 14:28:55,197 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-26 14:28:55,198 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-26 14:28:55,198 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-26 14:28:55,228 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Beezow Zopittybop Bop" )
+[ 2023-07-26 14:28:55,233 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:28:55,243 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-07-26 14:28:58,441 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-26 14:28:58,479 ] Disconnected from gameserver
+[ 2023-07-26 14:29:11,687 ] Using spritesheet cache size of 910
+[ 2023-07-26 14:29:12,458 ] Asset loading complete
+[ 2023-07-26 14:30:16,268 ] Using spritesheet cache size of 910
+[ 2023-07-26 14:30:17,063 ] Asset loading complete
+[ 2023-07-26 14:31:37,213 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-26 14:31:37,213 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-26 14:31:37,213 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-26 14:31:37,213 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-26 14:31:37,213 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-26 14:31:37,249 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:31:37,255 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:31:41,376 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:31:42,376 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:31:46,526 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"  was disconnected ( "Connection refused" )
+[ 2023-07-26 14:31:46,530 ] Disconnected from gameserver
+[ 2023-07-26 14:31:47,708 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:31:47,710 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Mehra"
+[ 2023-07-26 14:31:49,385 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://85.224.108.242/api/v1/login") ) due to too many retries.
+[ 2023-07-26 14:40:27,820 ] Using spritesheet cache size of 910
+[ 2023-07-26 14:40:28,619 ] Asset loading complete
+[ 2023-07-26 14:40:48,472 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-26 14:40:48,472 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-26 14:40:48,472 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-26 14:40:48,472 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-26 14:40:48,472 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-26 14:40:48,505 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-26 14:40:48,511 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"
+[ 2023-07-26 14:40:48,512 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Mehra"
+[ 2023-07-26 14:42:23,588 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-26 14:42:23,625 ] Disconnected from gameserver
