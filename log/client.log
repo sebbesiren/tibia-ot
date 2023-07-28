@@ -223,3 +223,5 @@
 [ 2023-07-26 14:40:48,512 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Mehra"
 [ 2023-07-26 14:42:23,588 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"  was disconnected ( "The remote host closed the connection" )
 [ 2023-07-26 14:42:23,625 ] Disconnected from gameserver
+[ 2023-07-28 21:11:51,061 ] Using spritesheet cache size of 910
+[ 2023-07-28 21:11:53,967 ] Asset loading complete
