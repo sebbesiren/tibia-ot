@@ -237,3 +237,27 @@
 [ 2023-07-29 13:52:43,013 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Mehra"
 [ 2023-07-29 13:52:46,759 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"  was disconnected ( "The remote host closed the connection" )
 [ 2023-07-29 13:52:46,798 ] Disconnected from gameserver
+[ 2023-07-29 14:08:11,283 ] Using spritesheet cache size of 910
+[ 2023-07-29 14:08:12,519 ] Asset loading complete
+[ 2023-07-29 14:08:22,454 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-29 14:08:22,454 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-29 14:08:22,454 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-29 14:08:22,454 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-29 14:08:22,454 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-29 14:08:22,490 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-29 14:08:22,492 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"
+[ 2023-07-29 14:08:22,494 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Mehra"
+[ 2023-07-29 14:08:24,362 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-29 14:08:24,402 ] Disconnected from gameserver
+[ 2023-07-29 15:26:31,626 ] Using spritesheet cache size of 910
+[ 2023-07-29 15:26:32,778 ] Asset loading complete
+[ 2023-07-29 15:26:40,711 ] BattlEye: "Initialized (v1.249)"
+[ 2023-07-29 15:26:40,711 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-29 15:26:40,711 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-29 15:26:40,711 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-07-29 15:26:40,711 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-07-29 15:26:40,743 ] Request connection to gameserver  "tcp://85.224.108.242:7172"  (unprotected:  "tcp://85.224.108.242:7172" )  requested (Charakter "Pohusaxi" )
+[ 2023-07-29 15:26:40,748 ] Request connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"
+[ 2023-07-29 15:26:40,749 ] Connected to gameserver  "tcp://85.224.108.242:7172" "Mehra"
+[ 2023-07-29 15:26:43,292 ] Connection to gameserver  "tcp://85.224.108.242:7172" "Mehra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-29 15:26:43,333 ] Disconnected from gameserver
